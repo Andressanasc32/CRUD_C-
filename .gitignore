@@ -1,1 +1,8 @@
+# Pastas de build e compilação que NUNCA sobem para o GitHub
+[Bb]in/
+[Oo]bj/
+
+# Pastas e arquivos do Visual Studio
 .vs/
+*.user
+*.suo
