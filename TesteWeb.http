@@ -1,0 +1,6 @@
+@TesteWeb_HostAddress = http://localhost:5185
+
+GET {{TesteWeb_HostAddress}}/Personagens/
+Accept: application/json
+
+###
